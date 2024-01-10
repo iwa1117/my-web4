@@ -198,6 +198,9 @@ export default function App() {
 
             {/* トレーニングメニュー */}
             <div id="trainingMenu">{generateMenuHTML()}</div>
+            <h2>
+  全てチェックできたら<a href="file:///C:/Users/%E3%81%BE%E3%81%84/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/%E8%AA%B2%E9%A1%8C/2%E5%BE%8C%E6%9C%9F/my-web4/index2.html">こちら</a>をクリックしてください。
+  </h2>
         </div>
     );
 }
